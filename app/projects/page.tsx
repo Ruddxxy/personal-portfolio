@@ -5,11 +5,11 @@ export default function Projects() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="bg-white rounded-lg shadow-lg overflow-hidden">
                     <div className="p-6">
-                        <h2 className="text-2xl font-bold mb-2 text-gray-800">Project 1</h2>
-                        <p className="text-gray-600 mb-4">This is a description of Project 1. It showcases XYZ features.</p>
+                        <h2 className="text-2xl font-bold mb-2 text-gray-800">Book Recommendation System</h2>
+                        <p className="text-gray-600 mb-4">It uses Exploratory Data Analysis.ML Model.</p>
                         <div className="flex space-x-4">
                             <a
-                                href="https://github.com/yourusername/project1"
+                                href="https://github.com/Ruddxxy/book-recommendation-system"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-500 text-white px-4 py-2 rounded hover:bg-purple-600 transition"
@@ -20,7 +20,7 @@ export default function Projects() {
                                 href="https://example.com/project1"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="bg-pink-500 text-white px-4 py-2 rounded hover:bg-pink-600 transition"
+                                className="bg-red-500 text-white px-4 py-2 rounded hover:bg-pink-600 transition"
                             >
                                 Live Site
                             </a>
